@@ -3,7 +3,7 @@
 </p>
 
 <hr>
-
+ 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=PROYECTO%20TERMINADO&color=RED&style=for-the-badge"/>
 </p>
