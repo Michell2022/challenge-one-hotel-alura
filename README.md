@@ -28,17 +28,18 @@
 
 - [Contacto](#contacto)
 
-## :heavy_check_mark:  Descripción del Proyecto
+## Descripción del Proyecto
 El proyecto "Alura Hotel" es una aplicación de gestión de reservas diseñada para simplificar y agilizar la administración de un hotel. Esta herramienta versátil está destinada a ayudar a los propietarios y al personal del hotel a gestionar eficazmente las reservas de habitaciones y a brindar a los clientes una experiencia de reserva sin problemas.
 "Alura Hotel" se esfuerza por ofrecer una solución integral que aborda las necesidades esenciales de la industria hotelera, brindando a los usuarios un conjunto completo de herramientas para gestionar sus operaciones de manera eficiente y satisfacer las demandas de los clientes.
-### Características Destacadas:
 
+
+### Características Destacadas:
 - Creación, edición y eliminación de reservas.
 - Registro y gestión de datos de huéspedes.
 - Cálculo automático del costo de las reservas en función de la duración y la tasa diaria.
 - Búsqueda de información detallada sobre clientes y reservas en la base de datos.
 
-## :heavy_check_mark:  Funcionalidades
+## Funcionalidades
 1. **Sistema de Autenticación de Usuarios**
    - Solo los usuarios registrados pueden acceder al sistema.
    - Implementa un sistema de autenticación.
@@ -59,21 +60,21 @@ El proyecto "Alura Hotel" es una aplicación de gestión de reservas diseñada p
    - Utiliza una base de datos para almacenar datos de clientes, reservas y huéspedes.
    - Utiliza MySQL como sistema de gestión de bases de datos
 
-## :heavy_check_mark:  Aplicación
+## Aplicación
 
 
-## :heavy_check_mark:  Acceso al Proyecto
+## Acceso al Proyecto
 Puedes [acceder al código fuente del proyecto](https://github.com/camilafernanda/GlicoCare) o [descargarlo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
 
 
-## :heavy_check_mark:  Herramientas Utilizadas
+## Herramientas Utilizadas
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
 <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://d4.alternativeto.net/YVNKXsvANZ7YmeMWyllos-iWZqQYLlayYQdfb708d0o/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9teXNxbC1jb21tdW5pdHktZWRpdGlvbl8xNTUzMjYucG5n.png" alt="androidStudio" width="40" height="40"/> </a>
 
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" alt="firebase" width="40" height="40"/> </a>
 
-## :heavy_check_mark:  Descargar y Abrir el proyecto
+## Descargar y Abrir el proyecto
 Para utilizar el conversor universal, se deben seguir los siguientes pasos:
 1.  Descargas el archivo **<> Code** luego **Download ZIP**.
 2.  Abrir el proyecto en un entorno de desarrollo integrado compatible con Java, como Eclipse o IntelliJ.
@@ -86,17 +87,17 @@ Para utilizar el conversor universal, se deben seguir los siguientes pasos:
 10.  Por útimo los seleccionas todos y **Apply and Close**.
 
 
-## :heavy_check_mark:  Desarrolladores del Proyecto
+## Desarrolladores del Proyecto
 
 | [<img src="https://avatars.githubusercontent.com/u/116586325?v=4" width=115><br><sub>Michell Angel Quispe</sub>](https://github.com/Michell2022) |
 | :---: |
 
-## :heavy_check_mark:  Licencia
+## Licencia
 Este proyecto se distribuye bajo la Licencia MIT.
 
 Puedes encontrar más proyectos en su página de GitHub: https://github.com/Michell2022
 
-## :heavy_check_mark:  Contacto
+## Contacto
 Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme.
 
 Email: sistemas.angel04@gmail.com
