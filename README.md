@@ -28,8 +28,9 @@
 
  
 ## Descripción del Proyecto 
-El proyecto "Alura Hotel" es una aplicación de gestión de reservas diseñada para simplificar y agilizar la administración de un hotel. Esta herramienta versátil está destinada a ayudar a los propietarios y al personal del hotel a gestionar eficazmente las reservas de habitaciones y a brindar a los clientes una experiencia de reserva sin problemas.
-"Alura Hotel" se esfuerza por ofrecer una solución integral que aborda las necesidades esenciales de la industria hotelera, brindando a los usuarios un conjunto completo de herramientas para gestionar sus operaciones de manera eficiente y satisfacer las demandas de los clientes.
+El proyecto "Hotel Alura" es una aplicación de gestión de reservas diseñada para simplificar y agilizar la administración de un hotel. Esta herramienta versátil está destinada a ayudar a los propietarios y al personal del hotel a gestionar eficazmente las reservas de habitaciones y a brindar a los clientes una experiencia de reserva sin problemas.
+
+"Hotel Alura" se esfuerza por ofrecer una solución integral que aborda las necesidades esenciales de la industria hotelera, brindando a los usuarios un conjunto completo de herramientas para gestionar sus operaciones de manera eficiente y satisfacer las demandas de los clientes.
 
 
 ### Características Destacadas:
