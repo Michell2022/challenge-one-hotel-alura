@@ -14,7 +14,7 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Aplicación](#aplicación)
+- [Video de la Aplicación](#video-de-la-aplicación)
 
 - [Acceso al proyecto](#acceso-al-proyecto)
 
@@ -26,7 +26,6 @@
 
 - [Licencia](#licencia)
 
-- [Contacto](#contacto)
  
 ## Descripción del Proyecto
 El proyecto "Alura Hotel" es una aplicación de gestión de reservas diseñada para simplificar y agilizar la administración de un hotel. Esta herramienta versátil está destinada a ayudar a los propietarios y al personal del hotel a gestionar eficazmente las reservas de habitaciones y a brindar a los clientes una experiencia de reserva sin problemas.
@@ -60,8 +59,10 @@ El proyecto "Alura Hotel" es una aplicación de gestión de reservas diseñada p
    - Utiliza una base de datos para almacenar datos de clientes, reservas y huéspedes.
    - Utiliza MySQL como sistema de gestión de bases de datos
 
-## Aplicación
+## Video de la Aplicación
+🖱️ Click en la imagen para ver el video!!!
 
+[![Alt text](https://user-images.githubusercontent.com/116586325/266178429-08fd1b02-4549-4869-a5ce-448f693fb82c.gif)](https://www.youtube.com/watch?v=V977yQuQeug)
 
 ## Acceso al Proyecto
 Puedes [acceder al código fuente del proyecto](https://github.com/camilafernanda/GlicoCare) o [descargarlo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
@@ -97,10 +98,7 @@ Este proyecto se distribuye bajo la Licencia MIT.
 
 Puedes encontrar más proyectos en su página de GitHub: https://github.com/Michell2022
 
-## Contacto
-Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme.
 
-Email: sistemas.angel04@gmail.com
 
 
 
